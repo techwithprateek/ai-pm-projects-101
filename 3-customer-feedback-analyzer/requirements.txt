@@ -1,0 +1,5 @@
+streamlit>=1.38
+openai>=1.50
+python-dotenv>=1.0
+matplotlib>=3.8
+pytest>=8.0

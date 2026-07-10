@@ -1,0 +1,11 @@
+feature,description
+Bulk archive notifications,Let users select and archive multiple notifications at once instead of one at a time
+Dark mode,Add a dark color theme users can toggle in settings
+CSV export for reports,Allow exporting any report table to CSV
+SSO login,Support Google and Microsoft single sign-on for enterprise customers
+In-app onboarding checklist,Guided checklist for new users during their first session
+Mobile push notifications,Send push notifications to the mobile app for key account events
+Customizable dashboard widgets,Let users rearrange and resize dashboard widgets
+Two-factor authentication,Add optional 2FA via authenticator app
+Public API rate limit increase,Raise default API rate limits for paying customers
+Keyboard shortcuts,Add keyboard shortcuts for common actions across the app

@@ -1,0 +1,41 @@
+review_id,product,rating,review_text
+1,Acme Dashboard,2,The app crashes every time I try to export a report larger than 1000 rows. Extremely frustrating during month-end close.
+2,Acme Dashboard,5,Support responded within 10 minutes and fixed my login issue on the spot. Best customer service I've had from a SaaS tool.
+3,Acme Dashboard,1,We got billed for 20 seats when we only have 12 active users. Pricing page doesn't clearly explain how seats are counted.
+4,Acme Dashboard,4,Onboarding was smooth, the checklist walked me through setup in about 15 minutes.
+5,Acme Dashboard,2,Dashboard takes 8-10 seconds to load every morning. Feels like it's gotten slower over the last few releases.
+6,Acme Dashboard,5,Love the new dark mode, way easier on the eyes during late night reporting sessions.
+7,Acme Dashboard,1,Cancelled after getting hit with an unexpected annual renewal charge with zero warning email.
+8,Acme Dashboard,3,Would be great if we could customize the dashboard widgets, right now everyone sees the same layout.
+9,Acme Dashboard,2,Had three support tickets open for over a week with no reply. Had to escalate on Twitter to get attention.
+10,Acme Dashboard,4,The mobile app is decent but push notifications are unreliable, I miss alerts constantly.
+11,Acme Dashboard,1,Constant bugs after the last update - filters reset randomly and reports sometimes show stale data.
+12,Acme Dashboard,5,Pricing is fair for what we get, especially compared to the enterprise tools we evaluated.
+13,Acme Dashboard,2,New user onboarding dumps you straight into a blank dashboard with no guidance on where to start.
+14,Acme Dashboard,4,Support team is knowledgeable but the wait time in the chat queue can be 20+ minutes during business hours.
+15,Acme Dashboard,1,App froze completely during a live client demo. Extremely embarrassing and cost us credibility.
+16,Acme Dashboard,5,The CSV export feature saves me hours every week, exactly what our finance team needed.
+17,Acme Dashboard,2,Would love keyboard shortcuts for common actions, right now everything requires multiple clicks.
+18,Acme Dashboard,3,Pricing tiers jump a lot between plans, there's no good middle option for a team our size.
+19,Acme Dashboard,5,Rolled out SSO for our whole org without any issues, IT team was impressed with the docs.
+20,Acme Dashboard,1,Lost two hours of work because the app crashed and didn't autosave my custom report.
+21,Acme Dashboard,4,Great product overall, just wish the mobile app had feature parity with desktop.
+22,Acme Dashboard,2,Billing support couldn't explain a duplicate charge on our invoice for over a week.
+23,Acme Dashboard,5,Onboarding specialist walked our whole team through setup on a call, very hands-on and helpful.
+24,Acme Dashboard,3,Performance has been noticeably slower since the redesign, especially on the analytics tab.
+25,Acme Dashboard,1,Requested a refund after a bug corrupted our saved dashboard views, still waiting on a response.
+26,Acme Dashboard,4,Dark mode and the new widget library are great additions this quarter.
+27,Acme Dashboard,2,Confusing pricing page, had to email sales three times just to understand seat-based billing.
+28,Acme Dashboard,5,Fastest support turnaround I've seen, they fixed a data sync bug within an hour of reporting it.
+29,Acme Dashboard,1,App has been crashing on Chrome specifically since the last release, works fine on Firefox.
+30,Acme Dashboard,4,Really like being able to customize widgets now, exactly the flexibility we were missing.
+31,Acme Dashboard,2,Load times have crept up a lot, the reports page used to be instant and now takes several seconds.
+32,Acme Dashboard,5,Setup and onboarding took less than a day for our 30-person team, great documentation.
+33,Acme Dashboard,1,Got double-billed two months in a row, support keeps saying it's "being looked into".
+34,Acme Dashboard,3,Mobile notifications are hit or miss, sometimes I get alerts an hour late.
+35,Acme Dashboard,4,Would like more dashboard customization options like resizing charts.
+36,Acme Dashboard,2,Another crash today while filtering a large dataset, this is becoming a weekly occurrence.
+37,Acme Dashboard,5,Support proactively reached out when they saw we hit an error, didn't even have to file a ticket.
+38,Acme Dashboard,1,Renewal pricing increased 40% with no notice or explanation, considering switching tools.
+39,Acme Dashboard,4,Onboarding emails were helpful but the in-app tutorial felt outdated compared to the current UI.
+40,Acme Dashboard,5,Genuinely fast and reliable for us day to day, no complaints on performance.
