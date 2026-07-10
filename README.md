@@ -6,7 +6,7 @@ an AI write the code, run it, poke at it until it's actually useful, then
 write down what you learned.
 
 Every project is a self-contained Streamlit app backed by the OpenAI API, with
-its own tests and its own `GUIDE.md` that explains two things:
+its own tests and its own `README.md` that explains two things:
 
 1. **How it works** — the architecture, the prompt design, the data flow.
 2. **How it was vibecoded** — the actual prompt-build-test loop used to get
